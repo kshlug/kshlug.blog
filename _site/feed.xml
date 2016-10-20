@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title type="text" xml:lang="fa">گروه کاربران لینوکس سنندج</title>
+<link rel="alternate" type="text/html" href="http://sanlug.ir"/>
+<link rel="self" type="application/atom+xml" href="http://sanlug.ir/feed.xml"/>
+<updated>2016-10-20T16:46:17Z</updated>
+<id>urn:uuid:1e7d9dd8-29e4-475d-adc5-17494fb80445</id>
+<author>
+	<name>Hamid Saydi</name>
+	<uri>http://sanlug.ir</uri>
+	<email>gshs99@gmail.org</email>
+</author>
+<rights>Commons Attribution 4.0 International</rights>
+
+	<entry>
+		<title>سلام دنیا</title>
+		<link rel="alternate" type="text/html" href="http://sanlug.ir/hello-world.html"/>
+		<id>urn:uuid:</id>
+		<updated>2016-10-20T00:00:00Z</updated>
+		<category term="سنندج"/><category term="لاگ"/><category term="lug"/><category term="گروه"/><category term="کاربران"/><category term="لینوکس"/>
+			<content type="html">
+				<![CDATA[<div dir="rtl"><p>سایت لاگ سنندج راه اندازی شد!
+این سایت بوسیله jekyll راه اندازی شده و بر روی گیت هاب میزبانی میشود .فایل های مربوط به سایت را در رپو مربوطه در گیت هاب لاگ میتوانید مشاهده کنید.</p>
+</div>]]>
+			</content>
+	</entry>
+
+</feed>
