@@ -1,7 +1,6 @@
 sanlug.ir
 =========
 
-![](assets/img/frontpage.png)
 
 This is the source code of sanandaj linux user group [website](http://sanlug.ir). Persian aka Farsi is written right-to-left, however some people use Roman script to write Persian language in messaging applications and social networks.
 
