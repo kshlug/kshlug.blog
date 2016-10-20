@@ -1,0 +1,30 @@
+box: ruby
+build:
+  steps:
+    # Install dependencies
+    - bundle-install
+
+    # Execute jeykyll doctor command to validate the
+    # site against a list of known issues.
+    - script:
+        name: jekyll doctor
+        code: bundle exec jekyll doctor
+
+    - script:
+        name: generate site
+        code: bundle exec jekyll build --trace --destination ./_site
+
+    - create-file:
+        name: generate robots.txt
+        filename: ./_site/robots.txt
+        content: |-
+          User-agent: *
+          Allow: /
+          Sitemap: http://sanlug.ir/sitemap.xml
+
+deploy:
+  steps:
+    - sanlug/gh-pages:
+        token: $GITHUB_TOKEN
+        basedir: _site
+        domain: sanlug.ir
