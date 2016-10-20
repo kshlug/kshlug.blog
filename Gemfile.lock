@@ -4,7 +4,6 @@ GEM
     coderay (1.1.0)
     colorator (0.1)
     ffi (1.9.10)
-    jalalidate (0.3.3)
     jekyll (3.1.0)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
@@ -53,7 +52,6 @@ PLATFORMS
 
 DEPENDENCIES
   coderay
-  jalalidate
   jekyll
   jekyll-paginate
   jekyll-sitemap
