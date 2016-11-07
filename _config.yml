@@ -1,21 +1,21 @@
 # Site settings
-title: "گروه کاربران لینوکس سنندج"
-motto: "اجتماع دوستداران لینوکس سنندج"
+title: "گروه کاربران لینوکس کرمانشاه"
+motto: "اجتماع دوستداران لینوکس کرمانشاه"
 author: Hamid Saydi
 email: gshs99@gmail.org
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sanlug.ir" # the base hostname & protocol for your site
-keywords: "کامپیوتر، لینوکس، لاگ، سنندج"
+url: "http://kshlug.ir" # the base hostname & protocol for your site
+keywords: "کامپیوتر، لینوکس، لاگ، کرمانشاه"
 copyright: "Commons Attribution 4.0 International"
 robot: ""
 description: > # this means to ignore newlines until "baseurl:"
-  گروه کاربران لینوکس سنندج
+  گروه کاربران لینوکس کرمانشاه
 
 long_description: >
-  سنندج لاگ اجتماع آزادي از دوست‌داران گنو/لينوکس است که بيشتر در شهرسنندج  زندگي مي‌کنند. ما از شما دعوت مي‌کنيم به اجتماع ما بپيونديد.ما در فيسبوک تويتر تلگرام ،گوگل پلاس و اکثر شبکه هاي اجتماعي فعاليت ميکنيم.شما همينطور ميتوانيد از طريق همين سايت و يا شبکه هاي اجتماعي از زمان برگزاري جلسات و ساير رويداد ها آگاه شويد.
-twitter_username: sanlug
-github_username:  sanlug
-fullname: "گروه کاربران لینوکس سنندج"
+  کرمانشاه لاگ اجتماع آزادي از دوست‌داران گنو/لينوکس است که بيشتر در شهرکرمانشاه  زندگي مي‌کنند. ما از شما دعوت مي‌کنيم به اجتماع ما بپيونديد.ما در فيسبوک تويتر تلگرام ،گوگل پلاس و اکثر شبکه هاي اجتماعي فعاليت ميکنيم.شما همينطور ميتوانيد از طريق همين سايت و يا شبکه هاي اجتماعي از زمان برگزاري جلسات و ساير رويداد ها آگاه شويد.
+twitter_username: kermanshahlug
+github_username:  kshlug
+fullname: "گروه کاربران لینوکس کرمانشاه"
 favicon: "assets/img/favicon.png"
 
 
